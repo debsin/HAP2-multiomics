@@ -38,7 +38,7 @@ The resulting multi-factor stratification distinguished moderate and severe alte
 
 ## Computational archive and data
 
-The archived computational material and de-identified data associated with the publication are deposited on Zenodo:
+The exact computational release and de-identified data associated with the publication are deposited on Zenodo:
 
 **Zenodo DOI:** [10.5281/zenodo.18768243](https://doi.org/10.5281/zenodo.18768243)
 
@@ -54,7 +54,9 @@ The deposited computational files include:
 | `procrustes.R` | Cross-domain concordance / Procrustes analyses |
 | `mixKernel.R` | Supporting kernel-based analysis utilities |
 
-The large de-identified data archive and normalised data workbook remain hosted on Zenodo rather than being duplicated in this GitHub repository. See [`data/README.md`](data/README.md).
+For direct links to each archived script and its checksum, see [`analysis/published-crm-2026/README.md`](analysis/published-crm-2026/README.md).
+
+**No study data are duplicated in this GitHub repository.** The de-identified archive and normalised data workbook remain hosted on Zenodo. See [`data/README.md`](data/README.md).
 
 ## Repository structure
 
@@ -63,18 +65,20 @@ HAP2-multiomics/
 ├── README.md
 ├── CITATION.cff
 ├── analysis/
-│   └── README.md
+│   ├── README.md
+│   └── published-crm-2026/
+│       └── README.md
 └── data/
     └── README.md
 ```
 
-The `analysis/` directory is intended for the curated, publication-relevant scripts from the archived Zenodo release. The private working repository contains a substantially larger development history and is deliberately not mirrored here.
+The private working repository contains a substantially larger development history and is deliberately not mirrored here.
 
 ## Reproducibility
 
 The Zenodo deposit is the archival source of record for the published computational release. This GitHub repository serves as the maintained, readable project interface and can evolve as further HAP2 analyses become public.
 
-For exact files corresponding to the 2026 publication, use the Zenodo record above.
+For exact files corresponding to the 2026 publication, use the Zenodo-linked release index above.
 
 ## Project direction
 
