@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated Cell Reports Medicine article and the Zenodo computational archive."
+title: "HAP2 multi-omics"
+type: software
+authors:
+  - family-names: Sinha
+    given-names: Debajyoti
+    orcid: "https://orcid.org/0000-0002-4791-9036"
+repository-code: "https://github.com/debsin/HAP2-multiomics"
+doi: "10.5281/zenodo.18768243"
+preferred-citation:
+  type: article
+  title: "Alterations of the host-lung microbiome metasystem in systemic inflammatory response syndrome is associated with secondary pneumonia"
+  authors:
+    - family-names: Sinha
+      given-names: Debajyoti
+    - family-names: Petrier
+      given-names: M.
+    - family-names: Martin
+      given-names: F. P.
+  journal: "Cell Reports Medicine"
+  year: 2026
+  volume: 7
+  issue: 8
+  start: "102919"
+  doi: "10.1016/j.xcrm.2026.102919"
