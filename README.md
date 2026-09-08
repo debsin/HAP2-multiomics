@@ -94,4 +94,4 @@ If you use the published analysis, please cite the Cell Reports Medicine article
 
 **Debajyoti Sinha**  
 Nantes Université · Inserm · CHU Nantes  
-Computational biology · multi-omics · translational immunology
+Computational biology · multi-omics · computational immunology
